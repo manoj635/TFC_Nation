@@ -3,7 +3,8 @@
 A modern and responsive website built to showcase services, features, and smooth UI design.
 
 🔗 **Live Website:** https://tfc-nation123.vercel.app/
-📁 **Repository:** https://github.com/your-username/TFC_Nation
+
+📁 **Repository:** https://github.com/manoj635/TFC_Nation
 
 ---
 
@@ -35,3 +36,4 @@ It focuses on clean design, smooth layout structure, and user-friendly navigatio
 Click below to view the project live:
 
 👉 https://tfc-nation123.vercel.app/
+
